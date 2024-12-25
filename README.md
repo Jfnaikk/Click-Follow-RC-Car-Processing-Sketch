@@ -1,4 +1,4 @@
-RC Car Simulation
+Click follow RC Car Simulation
 
 RC Car Simulation is a simple yet dynamic program written in Processing. The simulation lets you control a virtual RC car that moves smoothly toward a target position when you click anywhere on the canvas. The car's orientation dynamically adjusts as it moves, simulating realistic movement mechanics with a minimalist design.
 
